@@ -1,0 +1,6 @@
+{
+  "name": "QR & Barcode Studio",
+  "description": "A high-fidelity generator for customizable QR codes and 1D barcodes (Code128, EAN-13, UPC, Code39, ITF, Pharmacode, etc.) with real-time styling, batch creation, and SVG/PNG exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
